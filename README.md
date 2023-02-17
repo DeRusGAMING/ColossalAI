@@ -95,9 +95,7 @@
 
 ## Features
 
-Colossal-AI provides a collection of parallel components for you. We aim to support you to write your
-distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart
-distributed training and inference in a few lines.
+Colossal-AI offers a suite of parallel components to simplify the creation of distributed deep learning models. Our goal is to make distributed training and inference as effortless as working on your laptop. With our user-friendly tools, you can kickstart distributed training and inference with just a few lines of code.
 
 - Parallelism strategies
   - Data Parallelism
